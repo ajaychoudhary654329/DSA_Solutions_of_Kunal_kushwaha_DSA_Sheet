@@ -1,2 +1,2 @@
-# DSA_Solutions_of_Kunal_kushwaha_DSA_Sheet
-DSA practice and solutions
+# DSA_Solutions_of_Kunal_kushwaha &&  Striver_DSA_Sheets
+DSA practice problems ans solutions 
